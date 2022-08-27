@@ -1,22 +1,24 @@
-# kodluyoruz ilk repo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+# Kodluyoruz İlk Repo Alper Telef
+*Kodluyoruz Eğitimi kapsamında açtığım ilk repo*
 
-Bu repo [Kodluyoruz]{https://www.kodluyoruz.org/} Front-End Eğitiminde oluşturduğumuz ilk repo. 
-İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+* Bu repo [Kodluyoruz]{https://www.kodluyoruz.org/} Front-End Eğitiminde oluşturduğumuz ilk repo. 
 
-![projeye ait bir adet görsel]{https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png}
-----------------------------------
+* İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-*Installation*
+---
+## *Projeme ait görsel*
+![image](https://user-images.githubusercontent.com/108796164/187038489-7725aa20-2184-4302-b603-040da90b7031.png)
 
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+---
+
+## *Proje Clone Linki*
+
 
 ```
-git repo clone [githubilkrepo]{https://github.com/alperrtelef/kodluyoruzilkrepo.git}
+https://github.com/alperrtelef/kodluyoruzilkrepo.git
 ```
---------------------
 
+---
+## *Proje Sahibi*
 
-*Projeyi yapan*
-
-**alpertelef**
+**Alper TELEF**
